@@ -1,33 +1,27 @@
-📱 Aspiring Mobile App Developer | Coding Explorer 🚀
+🌐 Aspiring Fullstack Web Developer | Java Enthusiast 🚀
 
-Hello, fellow code enthusiasts! 👋 I'm Shanmuga Priyan a.k.a Tonypriyan, a budding Mobile App Developer on an exciting journey into the world of mobile applications. 🌐
+Hello, fellow tech enthusiasts! 👋 I'm Shanmuga Priyan, a.k.a Tonypriyan, a passionate Fullstack Web Developer with a knack for creating dynamic and user-friendly web solutions. 💻
 
-🔍 Seeking Knowledge:
+🔍 Exploring Horizons:
+Currently delving deep into Fullstack Web Development and mastering the art of building robust and scalable web applications. My journey also includes learning and leveraging mobile application development with Android and Flutter.
 
-Currently exploring the realms of Android and iOS development.
-Eager to learn and grow in the dynamic field of mobile app development.
+💻 Tech Interests:
 
-📱 Tech Interests:
-
-Android Studio | Java for Android
-Flutter | FlutterUI for Android & IOS
-UI/UX Design for an enhanced user experience
-
+Fullstack Development: HTML, CSS, JavaScript, Java, SQL
+Mobile Development: Android Studio, Java for Android, Flutter UI for Android & iOS
+UI/UX Design: Crafting seamless user experiences
 💡 Goals:
 
-Crafting engaging and user-friendly mobile applications.
-Learning best practices for efficient and scalable code.
-
+Designing and developing intuitive web and mobile applications.
+Learning best practices for scalable and efficient code.
+Staying ahead in the ever-evolving tech landscape.
 🛠️ Current Toolbox:
 
-IDEs: Android Studio, Xcode
-Languages: Java, Dart
+Web Development: HTML, CSS, JavaScript, Java, SQL
+Mobile Development: Android Studio, Flutter
+IDEs: VS Code, IntelliJ IDEA, Android Studio
 Version Control: Git
-
 🚀 Future Vision:
+I am passionate about shaping the digital future by contributing innovative solutions as a Fullstack Web Developer. Open to collaboration and eager to learn from like-minded professionals to build captivating web and mobile experiences.
 
-Passionate about contributing to the ever-evolving mobile app landscape.
-Excited to collaborate on projects and dive into the world of app innovation.
-
-
-🌈 Ready to collaborate, learn, and build captivating mobile experiences! Let's code the future together. #MobileAppMagic ✨📲
+🌈 Let’s create something amazing together. #WebDevelopment #Java #Innovation
