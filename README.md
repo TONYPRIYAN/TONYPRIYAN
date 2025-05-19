@@ -29,7 +29,7 @@ I'm diving deep into:
 **🛠 Tools & Platforms**
 - IDEs: VS Code, IntelliJ IDEA, Android Studio  
 - Version Control: Git & GitHub  
-- Problem Solving: LeetCode
+- Problem Solving: LeetCode,HackerRank,GFG
 
 ---
 
