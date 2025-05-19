@@ -1,27 +1,24 @@
-🌐 Aspiring Fullstack Web Developer | Java Enthusiast 🚀
+<!-- GitHub Profile README for Tonypriyan -->
 
-Hello, fellow tech enthusiasts! 👋 I'm Shanmuga Priyan, a.k.a Tonypriyan, a passionate Fullstack Web Developer with a knack for creating dynamic and user-friendly web solutions. 💻
+<h1 align="center">Hey there 👋 I'm Shanmuga Priyan (Tonypriyan) 🚀</h1>
+<p align="center">
+  🔥 Aspiring Full Stack Web Developer | 💻 Java Enthusiast | 🎨 UI/UX Explorer
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=tonypriyan&style=flat-square&color=brightgreen" alt="Profile views" />
+</p>
 
-🔍 Exploring Horizons:
-Currently delving deep into Fullstack Web Development and mastering the art of building robust and scalable web applications. My journey also includes learning and leveraging mobile application development with Android and Flutter.
+---
 
-💻 Tech Interests:
+### 🌟 About Me
 
-Fullstack Development: HTML, CSS, JavaScript, Java, SQL
-Mobile Development: Android Studio, Java for Android, Flutter UI for Android & iOS
-UI/UX Design: Crafting seamless user experiences
-💡 Goals:
+```js
+const Tony = {
+  nickname: "Tonypriyan",
+  role: "Full Stack Developer",
+  code: ["JavaScript", "Java", "HTML", "CSS", "SQL"],
+  tools: ["React", "Node.js", "Flutter", "Android Studio", "Git"],
+  interests: ["UI/UX", "Mobile Dev", "Competitive Coding"],
+  currentlyLearning: ["MERN Stack", "Spring Boot", "System Design"],
+  goal: "To build innovative, user-focused web & mobile experiences."
+}
 
-Designing and developing intuitive web and mobile applications.
-Learning best practices for scalable and efficient code.
-Staying ahead in the ever-evolving tech landscape.
-🛠️ Current Toolbox:
-
-Web Development: HTML, CSS, JavaScript, Java, SQL
-Mobile Development: Android Studio, Flutter
-IDEs: VS Code, IntelliJ IDEA, Android Studio
-Version Control: Git
-🚀 Future Vision:
-I am passionate about shaping the digital future by contributing innovative solutions as a Fullstack Web Developer. Open to collaboration and eager to learn from like-minded professionals to build captivating web and mobile experiences.
-
-🌈 Let’s create something amazing together. #WebDevelopment #Java #Innovation
