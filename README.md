@@ -6,6 +6,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TONYPRIYAN&label=Profile%20views&color=0e75b6&style=flat" alt="Tonypriyan" />
+</p>
+
+
 ### 🔍 Currently Exploring
 
 I'm diving deep into:
