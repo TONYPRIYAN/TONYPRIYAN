@@ -1,7 +1,7 @@
-<h1 align="center">🚀 Full Stack Developer | Java Enthusiast 🌐</h1>
+<h1 align="center">👨‍💻 Full Stack Developer | Java & ML Enthusiast</h1>
 
 <p align="center">
-  Hey there! I'm <strong>Shanmuga Priyan</strong> (aka <strong>Tonypriyan</strong>) — a passionate developer who enjoys building things that live on the web and your phone 📱. Whether it’s a full stack app, a mobile project, or a fun UI concept — I'm all about turning ideas into reality through code.
+  Hi, I'm <strong>Shanmuga Priyan</strong> (aka <strong>Tonypriyan</strong>) — a developer who enjoys working across the stack and exploring how software can solve real-world problems. I build responsive web and mobile apps, experiment with machine learning, and focus on writing clean, maintainable code.
 </p>
 
 <p align="center">
@@ -10,11 +10,23 @@
 
 ---
 
-## 🌱 What I’m Currently Exploring
+## 🚀 Currently Exploring
 
-- 🧩 Full Stack Web Development (MERN, Java, SQL)
-- 📱 Cross-platform Mobile Apps (Flutter + Android Studio)
-- 🎨 UI/UX Principles for intuitive design
+- 🌐 Full Stack Web Development with Java, Spring Boot & MERN
+- 🧠 Machine Learning — especially NLP and emotion/sarcasm detection
+- 📱 Cross-platform Mobile Development with Flutter & Android Studio
+- 🎯 Clean Code Practices and Scalable System Design
+
+---
+
+## 🧠 Machine Learning Highlights
+
+- 🔍 **Emotion & Sarcasm Detection System** using DistilBERT
+  - Fine-tuned on **GoEmotions** and **Reddit Sarcasm** datasets
+  - Handles sarcasm-first detection followed by emotion classification
+  - Model evaluation completed with metrics and confusion matrix
+- 🧪 Working on data augmentation for mixed emotions and sarcasm cases
+- 📄 Preparing for **Scopus-indexed publication** / **conference submission**
 
 ---
 
@@ -22,27 +34,31 @@
 
 <table align="center">
 <tr>
-<td align="center"><b>Frontend</b></td>
+<td><b>Frontend</b></td>
 <td>HTML, CSS, JavaScript, React.js</td>
 </tr>
 <tr>
-<td align="center"><b>Backend</b></td>
-<td>Node.js, Express.js, Java (Spring basics)</td>
+<td><b>Backend</b></td>
+<td>Node.js, Express.js, Java (Spring Boot basics)</td>
 </tr>
 <tr>
-<td align="center"><b>Database</b></td>
+<td><b>Database</b></td>
 <td>MongoDB, MySQL, Firebase</td>
 </tr>
 <tr>
-<td align="center"><b>Mobile</b></td>
-<td>Android Studio (Java), Flutter (Dart)</td>
+<td><b>Mobile</b></td>
+<td>Flutter (Dart), Android Studio (Java)</td>
 </tr>
 <tr>
-<td align="center"><b>Tools</b></td>
-<td>VS Code, IntelliJ IDEA, Android Studio, Git & GitHub</td>
+<td><b>ML/NLP</b></td>
+<td>Python, scikit-learn, TensorFlow, Hugging Face Transformers</td>
 </tr>
 <tr>
-<td align="center"><b>Problem Solving</b></td>
+<td><b>Tools</b></td>
+<td>VS Code, IntelliJ, Git & GitHub, Postman</td>
+</tr>
+<tr>
+<td><b>Problem Solving</b></td>
 <td>LeetCode, HackerRank, GeeksforGeeks</td>
 </tr>
 </table>
@@ -51,14 +67,14 @@
 
 ## 🎯 Goals
 
-- 🔧 Build scalable and meaningful applications  
-- 🧼 Write clean, modular, and efficient code  
-- 🌱 Keep learning & growing in the dev ecosystem  
-- 🤝 Collaborate on open-source and impactful tech
+- 🚀 Strengthen backend skills with **Spring Boot and APIs**
+- 🔬 Publish ML research to a reputed journal or conference
+- 💬 Contribute to meaningful open-source projects
+- 🧑‍💻 Keep learning and stay updated with evolving tech
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/TONYPRIYAN" target="_blank">
@@ -82,7 +98,7 @@
   </a>
 </p>
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -97,10 +113,9 @@
 ---
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em><br/>
-  <strong>#FullStack #Java #Flutter #OpenSource #UIUX #ProblemSolver</strong>
+  <em>“First, solve the problem. Then, write the code.” – John Johnson</em><br/>
+  <strong>#Java #FullStack #MachineLearning #SpringBoot #Flutter #CleanCode</strong>
 </p>
-
 
 
 
