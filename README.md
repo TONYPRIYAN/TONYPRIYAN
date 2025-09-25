@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
-<td>VS Code, IntelliJ IDEA, Android Studio, Git & GitHub</td>
+<td>VS Code, Eclipse, Android Studio, Git & GitHub</td>
 </tr>
 <tr>
 <td align="center"><b>Problem Solving</b></td>
