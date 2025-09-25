@@ -87,9 +87,9 @@
     <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo" />
   </a>
   &nbsp;
- <a href="https://boxd.it/9L2Il" target="_blank">
-    <img src="https://img.shields.io/badge/Letterboxd-000000?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
-</a>
+  <a href="https://boxd.it/9L2Il" target="_blank">
+    <img src="https://img.shields.io/badge/Letterboxd-1ABC9C?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
+  </a>
 </p>
 
 
